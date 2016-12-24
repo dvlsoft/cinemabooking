@@ -1,0 +1,4 @@
+com/cinema/entity/Cinema.class
+com/cinema/entity/Hall.class
+com/cinema/entity/Location.class
+com/cinema/entity/Movie.class
