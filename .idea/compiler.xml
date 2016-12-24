@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cinemabooking-webapp" />
         <module name="model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Cinema-Manager" target="1.8" />
+      <module name="cinemabooking-webapp" target="1.8" />
       <module name="model" target="1.8" />
     </bytecodeTargetLevel>
   </component>
