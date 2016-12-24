@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Cinema-Manager.iml" filepath="$PROJECT_DIR$/Cinema-Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemabookingwebapp/cinemabooking-webapp.iml" filepath="$PROJECT_DIR$/cinemabookingwebapp/cinemabooking-webapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
     </modules>
   </component>
